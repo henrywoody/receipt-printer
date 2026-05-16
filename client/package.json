@@ -10,8 +10,6 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
-		"@types/jsprintmanager": "^3.0.0",
-		"jsprintmanager": "^7.0.2",
 		"react": "^19.2.6",
 		"react-dom": "^19.2.6"
 	},
