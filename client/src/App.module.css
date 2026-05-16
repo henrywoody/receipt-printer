@@ -11,7 +11,15 @@
 	margin-bottom: 2.5rem;
 }
 
-.print-form__textarea {
+.print-form__font-size {
+	margin-left: auto;
+
+	display: flex;
+	align-items: center;
+	gap: 0.5rem;
+}
+
+.print-form__text {
 	font-size: 1.25rem;
 	resize: vertical;
 
